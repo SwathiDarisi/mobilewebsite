@@ -1,0 +1,33 @@
+.bgimg4{
+	background-image: url('https://c4.wallpaperflare.com/wallpaper/1024/33/231/watermarked-abstract-artwork-digital-art-wallpaper-preview.jpg');
+	background-size: cover;
+	height: 160vh;
+}
+.headfirst{
+	font-family: 'Roboto';
+	color:white;
+	font-size: 30px;
+	font-weight: bold;
+	padding:25px;
+}
+.bgcarouselcard{
+	background-color: turquoise;
+	border-bottom-left-radius: 20px;
+	border-bottom-right-radius: 20px;
+	margin: 250px;
+	margin-top: 50px;
+}
+.cardcon{
+	padding: 5px;
+}
+.headsecond{
+	color: blue;
+	font-family: 'Roboto';
+	font-size: 20px;
+	font-weight:bold; 
+}
+.paraline{
+color: #6c6b70;
+font-family: 'Roboto';
+font-size: 13px;
+}

@@ -1,0 +1,34 @@
+.bgimg2{
+	background-image: url('https://1.bp.blogspot.com/-8yAEVN9lRh8/XiRNHc6ZN8I/AAAAAAAAC-8/EqhWTRJvs6QjevRcQgsI_3gbvJKfQJNggCPcBGAYYCw/w1080-d/phone-wallpaper-1.jpg');
+    background-size: cover;
+    height: 140vh;
+}
+.layoutcard2{
+	background-color: white;
+	border-radius: 8px;
+	padding: 18px;
+	margin: 12px;
+
+}
+.mobilehead{
+	color: white;
+	font-family: 'Roboto';
+	font-weight: bold;
+	font-size: 35px;
+	padding: 25px;
+}
+.brandshead{
+	color: #041836;
+	font-family: 'Roboto';
+	font-weight: bold;
+	font-size: 30px;
+}
+.brandimg{
+	width: 120px;
+	height: 120px;
+}
+.brandpara{
+	color: maroon;
+	font-family: 'Roboto';
+	font-size: 15px;
+}

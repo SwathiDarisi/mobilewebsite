@@ -1,0 +1,34 @@
+.bgimg3{
+	background-image: url('https://wallpaper-mania.com/wp-content/uploads/2018/09/High_resolution_wallpaper_background_ID_77701468096.jpg');
+	background-size: cover;
+	height: 160vh;
+    width: 100vw;
+}
+.headfirst{
+	font-family: 'Roboto';
+	color:white;
+	font-size: 30px;
+	font-weight: bold;
+	padding:25px;
+}
+.bgcarouselcard{
+	background-color:lightyellow;
+	border-bottom-left-radius: 20px;
+	border-bottom-right-radius: 20px;
+	margin: 250px;
+	margin-top: 50px;
+}
+.cardcon{
+	padding: 5px;
+}
+.headsecond{
+	color: purple;
+	font-family: 'Roboto';
+	font-size: 20px;
+	font-weight:bold; 
+}
+.paraline{
+color: #6c6b70;
+font-family: 'Roboto';
+font-size: 13px;
+}
